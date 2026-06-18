@@ -1,8 +1,3 @@
-"""Benchmark configuration (headless).
-
-Separated from the pygame game so benchmarks can run without assets.
-"""
-
 BENCHMARK_SEED = 42
 
 # Grid sizes (N x N). N^2 is the number of vertices.
